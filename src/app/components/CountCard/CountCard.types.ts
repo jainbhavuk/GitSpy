@@ -1,4 +1,4 @@
 export type CountCardProps = {
-  count: number;
-  countTitle: string;
+  count?: number;
+  countTitle?: string;
 };
